@@ -1,0 +1,8 @@
+{
+  "name": "hyrule-chronicle",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "젤다와 링크의 관계를 소개하는 비공식 팬 아카이브",
+  "scripts": { "dev": "node server.mjs", "start": "node server.mjs" }
+}
